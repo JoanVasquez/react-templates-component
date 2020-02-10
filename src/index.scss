@@ -1,0 +1,13 @@
+$bodyColor: #fafafa;
+$mainFonts: 'Roboto', 'Open Sans';
+$mainColor: #88a0c2;
+
+html,
+body {
+  font-family: $mainFonts;
+  font-size: 1rem;
+  box-sizing: border-box;
+  background-color: $bodyColor !important;
+  //color: $mainColor;
+  height: 100%;
+}
